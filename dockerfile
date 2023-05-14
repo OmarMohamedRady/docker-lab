@@ -1,4 +1,3 @@
-GNU nano 6.2                                                                                     dockerfile                                                                                              
 FROM ubuntu:latest
 LABEL maintainer="compiler@aast.edu"
 ENV TZ=Africa/Cairo
